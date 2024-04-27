@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.1
+
+### Patch Changes
+
+- 2fe63e8: Separate version and publish
+
 ## 1.3.0
 
 ### Minor Changes
