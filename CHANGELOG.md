@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.2
+
+### Patch Changes
+
+- 97530b3: Fix release.yml
+
 ## 1.3.1
 
 ### Patch Changes
