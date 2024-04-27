@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.5
+
+### Patch Changes
+
+- cc9bfa4: change naming
+
 ## 1.3.4
 
 ### Patch Changes
