@@ -21,8 +21,8 @@
     "test:check": "prettier --config ./index.js --check test/",
     "test:write": "prettier --config ./index.js --write test/",
     "change": "npx changeset",
-    "release": "npx changeset version",
-    "publish": "npx changeset publish"
+    "version": "npx changeset version",
+    "release": "npx changeset publish"
   },
   "keywords": [
     "prettier",
