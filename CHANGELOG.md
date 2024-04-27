@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.4
+
+### Patch Changes
+
+- c7e2a6b: Change public logic
+
 ## 1.3.3
 
 ### Patch Changes
