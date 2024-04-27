@@ -13,6 +13,7 @@
     "url": "https://github.com/patricktabar/prettier-config"
   },
   "scripts": {
+    "test": "npm run test:check && npm run test:write",
     "test:check": "prettier --config ./index.js --check test/",
     "test:write": "prettier --config ./index.js --write test/",
     "change": "npx changeset",
