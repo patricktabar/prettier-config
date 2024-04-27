@@ -4,6 +4,9 @@
   "private": false,
   "description": "A personal, shareable Prettier configuration",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/patricktabar/prettier-config",
   "bugs": {
     "url": "https://github.com/patricktabar/prettier-config/issues",
