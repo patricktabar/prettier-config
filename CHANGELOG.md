@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.2.0
+
+### Minor Changes
+
+- b0f1b32: Update CI/CD workflow
+
 ## 1.1.0
 
 ### Minor Changes
