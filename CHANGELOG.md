@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.3
+
+### Patch Changes
+
+- 589c5cc: Add public publishing on package.json
+
 ## 1.3.2
 
 ### Patch Changes
