@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.0
+
+### Minor Changes
+
+- ec89395: Improve workflow
+
 ## 1.2.0
 
 ### Minor Changes
