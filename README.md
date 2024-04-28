@@ -19,7 +19,7 @@ pnpm add -D @patricktabar/prettier-config
 Add the `prettier` key to your `package.json`
 
 ```diff
-+  "prettier": "@github/prettier-config",
++  "prettier": "@patricktabar/prettier-config",
  ```
  
  or extend the `.prettierrc` file to override some properties from the shared configuration:
