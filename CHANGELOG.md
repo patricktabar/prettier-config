@@ -1,5 +1,11 @@
 # @patricktabar/prettier-config
 
+## 1.3.6
+
+### Patch Changes
+
+- a9a092c: typo
+
 ## 1.3.5
 
 ### Patch Changes
